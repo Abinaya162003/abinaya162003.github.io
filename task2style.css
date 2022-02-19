@@ -1,0 +1,58 @@
+nav {
+  border: 1px solid black;
+  padding: 25px;
+  background-color: #15546E;
+  text-transform: uppercase;
+  color: #F6FCFF;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-display: #15546E;
+}
+th{
+  text-decoration-color: #15546E;
+}
+h1{
+  color: #15546E;
+  font-style: Roboto;
+}
+.nav-area li{ 
+  border: 1px solid black;
+  display: inline-block;
+}
+.nav-area li a{
+  color:  #F6FCFF;
+  text-decoration: none;
+  padding: 50px 50px;
+}
+.nav-area li a:hover{
+  background: white;
+  color: #15546E ;
+}
+.welcome-text{
+  text-decoration: none;
+  font-size: none;
+}
+.welcome-text a:hover{
+  background: 0fff;
+  color: #F6FCFF;
+}
+
+.nav-area{
+  background-color: #15546E;
+  font-size: 200%;
+}
+.sub menu 1{
+  display: none;
+}
+nav{
+  border-color: #F6FCFF;
+}
+.div2{
+  border: 1px solid black;
+  background-color: #15546E;
+  text-transform: uppercase;
+  color: #F6FCFF;
+
+}
